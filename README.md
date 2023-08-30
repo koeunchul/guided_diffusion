@@ -1,3 +1,8 @@
+# 학습 방법
+scripts 폴더에서 아래 터미널 명령입력
+
+python image_train.py $MODEL_FLAGS $DIFFUSION_FLAGS $TRAIN_FLAGS
+
 # guided-diffusion
 
 This is the codebase for [Diffusion Models Beat GANS on Image Synthesis](http://arxiv.org/abs/2105.05233).
